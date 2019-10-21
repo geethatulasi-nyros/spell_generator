@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{summary}
   spec.description   = %q{description}
-  spec.homepage      = "https://github.com/geethatulasi-nyros/spell_generator"
+  spec.homepage      = "https://rubygems.org/gems/spell_generator"
   spec.license       = "MIT"
   spec.files         = ['lib/spell_generator.rb']
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
